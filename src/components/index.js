@@ -8,6 +8,7 @@ import Stats from "./Stats"
 import Testimonial from "./Testimonial"
 import Billing from "./Billing"
 import CardDeal from "./CardDeal"
+import GetStarted from "./GetStarted"
 
 export {
  Navbar,
@@ -19,5 +20,6 @@ export {
  Clients,
  Business,
  Billing,
- CardDeal
+ CardDeal,
+ GetStarted
 }
